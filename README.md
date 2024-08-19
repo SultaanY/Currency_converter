@@ -1,4 +1,4 @@
-Python Currency Converter
+<h2> Python Currency Converter </h2>
 
 A command-line based currency converter built with Python. 
 This tool allows you to input a base currency and a quote currency to retrieve the latest exchange rate. 
